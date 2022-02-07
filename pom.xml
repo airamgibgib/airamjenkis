@@ -12,7 +12,7 @@
             <artifactId>maven-compiler-plugin</artifactId>
             <configuration>
                 <source>3.3.3</source>
-                <target>3.3.3/target>
+                <target>3.3.3</target>
             </configuration>
         </plugin>
             <plugin>
