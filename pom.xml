@@ -33,6 +33,14 @@
                 <version>2.9.2-01</version>
                 <extensions>true</extensions>
             </plugin>
+            <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <configuration>
+                <source>3.3</source>
+                <target>3.3</target>
+            </configuration>
+        </plugin>
         </plugins>
     </build>
     <dependencies>
